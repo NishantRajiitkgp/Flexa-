@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(curl:*)",
+      "Bash(lsof -i :3000)",
+      "Bash(xargs -r kill -9)",
+      "Bash(ls:*)"
+    ]
+  }
+}
