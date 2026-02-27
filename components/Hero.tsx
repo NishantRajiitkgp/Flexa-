@@ -36,7 +36,7 @@ export default function Hero() {
                     </p>
                     <div className="bg-white/5 backdrop-blur-md border border-white/10 rounded-3xl p-6 flex gap-6 items-center flex-1">
                         <img
-                            src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=400&auto=format&fit=crop"
+                            src="/images/peaceful-portrait.png"
                             alt="Karina L."
                             className="w-[140px] h-[160px] rounded-2xl object-cover"
                         />

@@ -4,7 +4,7 @@ export default function CTA() {
             {/* Background Image */}
             <div className="absolute inset-0 z-0">
                 <img
-                    src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=2070&auto=format&fit=crop"
+                    src="/images/sunset-tree-pose.png"
                     alt="Meditation"
                     className="w-full h-full object-cover"
                 />

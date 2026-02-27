@@ -3,12 +3,12 @@ export default function Insights() {
         {
             date: "Jul 5, 2025",
             title: "Join Our Upcoming Yoga Workshop Series",
-            img: "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0?q=80&w=400&auto=format&fit=crop",
+            img: "/images/moody-twist.png",
         },
         {
             date: "Jun 10, 2025",
             title: "New Summer Class Schedule Announced",
-            img: "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=400&auto=format&fit=crop",
+            img: "/images/reflection-meditation.png",
         },
     ];
 
@@ -16,12 +16,12 @@ export default function Insights() {
         {
             date: "Jul 9, 2025",
             title: "How to Start a Mindful Yoga Practice at Home",
-            img: "https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=400&auto=format&fit=crop",
+            img: "/images/dark-face.png",
         },
         {
             date: "Jun 27, 2025",
             title: "Finding the Right Yoga Class for Your Goals",
-            img: "https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=400&auto=format&fit=crop",
+            img: "/images/bright-pigeon-pose.png",
         },
     ];
 

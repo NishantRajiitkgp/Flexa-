@@ -47,7 +47,7 @@ export default function About() {
                     {/* Left Image */}
                     <div className="relative mt-12">
                         <img
-                            src="https://images.unsplash.com/photo-1599901860904-17e6ed7083a0?q=80&w=800&auto=format&fit=crop"
+                            src="/images/spotlight-backbend.png"
                             alt="Yoga practice"
                             className="w-full aspect-[4/3] object-cover rounded-3xl"
                         />
@@ -60,7 +60,7 @@ export default function About() {
                     {/* Center Image */}
                     <div className="relative -mt-12">
                         <img
-                            src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=800&auto=format&fit=crop"
+                            src="/images/reflection-tree-pose.png"
                             alt="Aerial yoga"
                             className="w-full aspect-[3/4] object-cover rounded-3xl"
                         />
@@ -77,7 +77,7 @@ export default function About() {
                             <p className="text-sm text-[#D8D1C5]">Support</p>
                         </div>
                         <img
-                            src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=800&auto=format&fit=crop"
+                            src="/images/white-meditation.png"
                             alt="Yoga studio"
                             className="w-full aspect-[4/3] object-cover rounded-3xl relative z-0"
                         />

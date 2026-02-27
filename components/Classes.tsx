@@ -7,7 +7,7 @@ export default function Classes() {
             tags: ["Energy", "Flexibility", "Strength"],
             level: "All Levels",
             duration: "3 Months",
-            img: "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0?q=80&w=400&auto=format&fit=crop",
+            img: "/images/spotlight-backbend.png",
         },
         {
             num: "02",
@@ -16,7 +16,7 @@ export default function Classes() {
             tags: ["Balance", "Calm", "Release"],
             level: "Beginner",
             duration: "1 Month",
-            img: "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=400&auto=format&fit=crop",
+            img: "/images/dark-seated-twist.png",
         },
         {
             num: "03",
@@ -25,7 +25,7 @@ export default function Classes() {
             tags: ["Flexibility", "Relaxation", "Release"],
             level: "Intermediate",
             duration: "2 Months",
-            img: "https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=400&auto=format&fit=crop",
+            img: "/images/dark-meditation.png",
         },
     ];
 
